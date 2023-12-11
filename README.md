@@ -20,5 +20,5 @@ Repositório criado para o desafio de Projeto da [DIO](https://www.dio.me/) e pa
 
 | Assunto | Resumo 1 | Resumo 2 | Resumo 3 |
 | ---- | ------- | ------- | ------- |
-| Git e GitHub | [Versionamento de código]() | [Git]() | [GitHub]() |
-| Gravando Alterações no Repositório Local | [Comandos básicos do Terminal]() | [Branches]() | [Comandos do Git]() |
+| Git e GitHub | [Versionamento de código](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/Versionamento%20de%20c%C3%B3digo.md) | [Git](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/Git.md) | [GitHub](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/GitHub.md) |
+| Gravando Alterações no Repositório Local | [Comandos básicos do Terminal](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/Comandos%20do%20Terminal.md) | [Branches](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/Branches.md) | [Comandos do Git](https://github.com/claclaben10/dio-challenge/blob/main/Introducao-git/Comandos%20do%20Git.md) |
