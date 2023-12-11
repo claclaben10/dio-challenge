@@ -6,6 +6,4 @@ Sistema de Controle de Versão Distribuído
 - Ramificações (branching) e fusões (merging) eficientes
 - Leve e rápido
 
-git pull -> git fetch + git merge
-	     baixa as    mescla as
-	   alterações    alterações
+git pull -> git fetch (baixa as alterações) + git merge (mescla as alterações)
