@@ -8,5 +8,7 @@ Plataforma de hospedagem de c처digo para controle de vers찾o com Git e colabora�
 
 Git =/= GitHub
 
-## Git: atua no banco de vers천es, no gerenciamento das vers천es
-## GitHub: o servidor que hospeda o c처digo
+## Git
+atua no banco de vers천es, no gerenciamento das vers천es
+## GitHub
+o servidor que hospeda o c처digo
